@@ -1,11 +1,12 @@
-## Hi
--Estou estudando programação no Alura.
+## Hi, what's up?🌸
 
--Estou me desenvolvendo na linguagem JavaScript.
+- Estou estudando programação no Alura.
 
--Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+- Estou me desenvolvendo na linguagem JavaScript. 
 
--Você pode entrar em contato comigo🌸:
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+- Você pode entrar em contato comigo:
 ## 00001073852180sp@al.educacao.sp.gov.br
 
 ![](https://media.tenor.com/Z71jTbBRiU4AAAAM/kimetsu-no-yaiba-demon-slayer.gif)
